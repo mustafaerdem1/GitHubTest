@@ -1,1 +1,3 @@
 üçüncü test dosyasındasın bro
+
+user name MUÇİ kısmını commit edicek
